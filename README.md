@@ -35,15 +35,15 @@ This open-source project documents the design and construction of a custom **PAP
 
 ## 📦 Bill of Materials (BOM)
 
-| Component                    | Description / Example                                    |
-|-----------------------------|-----------------------------------------------------------|
-| Filter                      | 3M DT-1135E or Dräger 6738801 (NATO 40mm)                |
-| Fan / Blower                | Delta BFB1012M or equivalent centrifugal blower           |
+| Component                   | Description / Example                                     | My Pick                |
+|-----------------------------|-----------------------------------------------------------|------------------------|
+| Filter                      | 3M DT-1135E or Dräger 6738801 (NATO 40mm)                 | 3M DT-1135E 7100260628 |
+| Fan / Blower                | Delta BFB1012M or equivalent centrifugal blower           | Delta BFB1012M-BG51R   |
 | Power source                | Bosch 18V Li-ion (with 3D-printed battery holder)         |
 | Buck converter              | Step-down 18V → 12V (min. 2A recommended)                 |
 | PWM generator               | 5V or 12V PWM module (depending on fan spec)              |
 | Mask interface              | Optrel Swiss Air replacement mask (or custom design)      |
-| Hose                        | Anti-static flexible hose (like CPAP)       |
+| Hose                        | Anti-static flexible hose (like CPAP)                     |
 | Enclosure                   | 3D-printed case or laser-cut design for fan & filter      |
 
 ---
@@ -57,6 +57,31 @@ This open-source project documents the design and construction of a custom **PAP
 | Dräger 6738797         | A2B2E2K2 P3 Hg R D  | Welding (incl. stainless), mercury, ammonia | Industrial-grade, high protection                |
 | Dräger 6738815         | A2B2E2K1 P3 Hg R D  | Welding fumes, mercury, organic gases       | Similar to 6738797, slightly less ammonia rating |
 
+I picked the 3M DT-1135E 7100260628 since I will mainly dow oodworking with it
+
+---
+
+## Fan
+
+I picked the Delta BFB1012M-BG51R since it was cheap and available on ebay
+
+Dimensions: Height: 97 mm Depth: 94 mm Width:33 mm
+AC/DC: DC Blower Fan
+Voltage: DC 12V
+Working Voltage: 6.0-13.2V
+Power: 5.8W
+Current: 0.48A
+Speed: 3200 RPM
+Air Flow 27.4 CFM (0.78 m3/min)
+Pressure Type:  0.893 in H2O
+Noise: 52.5 DBA
+Red Wire: Positive (+)
+Black Wire: Negative (-)
+Yellow Wire: PWM
+Blue Wire: Tacho
+Pulses: 2 per revolution
+Re-Ozone depleting substances: no containing PBBs, PBBOs, DFCs, PBBEs, PBDPEs and HCFCs
+Preferred duty point of the fan: 25kHz
 
 ---
 
