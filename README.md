@@ -1,5 +1,8 @@
 # DIY Powered Air-Purifying Respirator (PAPR)
 
+![DIY-PAPR-front](https://github.com/user-attachments/assets/dc303964-7eeb-4b75-9b14-eb4aefdb33ad)
+
+
 ## ⚠️ Disclaimer
 This project is provided for educational and informational purposes only. Building and using a DIY powered air-purifying respirator (PAPR) involves significant health and safety risks. The authors and contributors of this repository accept no liability for any injury, loss, or damage resulting from the use or misuse of the information provided herein.
 
