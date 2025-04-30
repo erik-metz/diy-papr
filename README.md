@@ -44,8 +44,8 @@ This open-source project documents the design and construction of a custom **PAP
 | Fan / Blower                | Delta BFB1012M or equivalent centrifugal blower           | Delta BFB1012M-BG51R   |
 | Power source                | Bosch 18V Li-ion (with 3D-printed battery holder)         |
 | Buck converter              | Step-down 18V → 12V (min. 2A recommended)                 |
-| PWM generator               | 5V or 12V PWM module (depending on fan spec)              |
-| Mask interface              | Optrel Swiss Air replacement mask (or custom design)      |
+| PWM generator               | DC 12V PWM Sspeed Ccontroller                             |
+| Mask interface              | Optrel Swiss Air replacement mask (or custom design)      | §M 6200
 | Hose                        | Anti-static flexible hose (like CPAP)                     |
 | Enclosure                   | 3D-printed case or laser-cut design for fan & filter      |
 
@@ -101,7 +101,15 @@ All files will be added under `/hardware`.
 
 ## 📷 Example Images & Diagrams
 
-*Coming soon: CAD renderings, wiring diagrams, airflow simulations, real photos.*
+### Rendering
+![DIY-PAPR-front](https://github.com/user-attachments/assets/67fbfd42-6420-4756-8152-1cf6973d1523)
+![DIY-PAPR-back](https://github.com/user-attachments/assets/13794a9f-cb1c-475d-930d-0807509d0a8a)
+![DIY-PAPR-inner](https://github.com/user-attachments/assets/8ffd31e3-29af-4cac-a495-7f377fefe52b)
+
+### First Batch
+![IMG_2879](https://github.com/user-attachments/assets/c7fa515d-95e2-4daa-aaa4-a5fad8baf159)
+![IMG_2880](https://github.com/user-attachments/assets/1898ba4b-d4be-406c-a9c4-4c757aa926e7)
+
 
 ---
 
