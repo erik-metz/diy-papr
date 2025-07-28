@@ -97,6 +97,8 @@ Preferred duty point of the fan: 25kHz
 
 All files will be added under `/hardware`.
 
+Here is the whole CAD file [DIY-PAPR.step](https://knlj28ehyr.ufs.sh/f/RpAbILExpGTVZ8VlC3QglRmrndTP9EuLxevt8bQG5H260jos)
+
 ---
 
 ## 📷 Example Images & Diagrams
