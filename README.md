@@ -45,7 +45,7 @@ This open-source project documents the design and construction of a custom **PAP
 | Power source                | Bosch 18V Li-ion (with 3D-printed battery holder)         |
 | Buck converter              | Step-down 18V → 12V (min. 2A recommended)                 |
 | PWM generator               | DC 12V PWM Sspeed Ccontroller                             |
-| Mask interface              | Optrel Swiss Air replacement mask (or custom design)      | §M 6200
+| Mask interface              | Optrel Swiss Air replacement mask (or custom design)      | 3M 6200
 | Hose                        | Anti-static flexible hose (like CPAP)                     |
 | Enclosure                   | 3D-printed case or laser-cut design for fan & filter      |
 
